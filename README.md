@@ -60,7 +60,10 @@ $ npm run test:cov
 ## Api List
 
 http://localhost:3000/login [Using gmail login]
-http://localhost:3000/user/profile?accessToken=<google playground token>
+
+
+http://localhost:3000/user/profile?accessToken='<google playground token>'
+  
   
 ## Support
 
