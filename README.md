@@ -57,7 +57,11 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Api List
 
+http://localhost:3000/login [Using gmail login]
+http://localhost:3000/user/profile?accessToken=<google playground token>
+  
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
